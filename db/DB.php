@@ -5,7 +5,7 @@
 // $password="12345678";
 // $db="products";
 
-$pdo=null;
+$pdo="null";
 $host="us-cdbr-east-06.cleardb.net";
 $user="bcff1fecfd0aee";
 $password="17e150cd";
