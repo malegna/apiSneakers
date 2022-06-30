@@ -1,9 +1,16 @@
 <?php
+// $pdo=null;
+// $host="localhost";
+// $user="root";
+// $password="12345678";
+// $db="products";
+
 $pdo=null;
-$host="localhost";
-$user="root";
-$password="12345678";
-$db="products";
+$host="us-cdbr-east-06.cleardb.net";
+$user="bcff1fecfd0aee";
+$password="17e150cd";
+$db="heroku_a145a1c2682b4d4";
+
 
 function conectar(){
     try{
